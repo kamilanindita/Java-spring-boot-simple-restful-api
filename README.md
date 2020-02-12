@@ -1,4 +1,4 @@
-# Java-spring-boot-simple-restful-api
+# Java-spring-boot-simple-restful-api-mysql
 <br><br>
 
 ## Endpoints<br>
